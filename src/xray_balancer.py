@@ -24,7 +24,7 @@ class ConfigToXray:
             "log": {
                 "loglevel": "warning"
             },
-            "remarks": "👽 Anonymous Multi Balanced",
+            "remarks": "Powered By Onvao.net",
             "dns": {
                 "servers": [
                     "https://dns.google/dns-query",
