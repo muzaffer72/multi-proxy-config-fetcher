@@ -16,7 +16,7 @@ echo ""
 echo -e "${MAGENTA}═════════════════════════════════════════════${NC}"
 echo -e "${BRIGHT_CYAN} Multi Wizard - Ultimate Setup${NC}"
 echo -e "${MAGENTA}═════════════════════════════════════════════${NC}"
-echo -e "${WHITE} Designed by: ${BRIGHT_GREEN}👽 Anonymous${NC}"
+echo -e "${WHITE} Designed by: ${BRIGHT_GREEN}👽 Onvao.net${NC}"
 echo -e "${MAGENTA}═════════════════════════════════════════════${NC}"
 echo ""
 
